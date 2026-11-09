@@ -1,0 +1,424 @@
+{
+  "id": "2026-27-21",
+  "closes_at": "2026-11-14T13:00:00+01:00",
+  "closing_source": "https://www.eduardolosilla.es/quiniela/ayudas/estimacion",
+  "matches": [
+    {
+      "competition": "SP2",
+      "home": "Real Valladolid",
+      "away": "Castellón",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            36,
+            23,
+            41
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            33,
+            27,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "SP2",
+      "home": "Real Sociedad B",
+      "away": "Sporting de Gijón",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            34,
+            26,
+            40
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            39,
+            27,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "SP2",
+      "home": "Almería",
+      "away": "Andorra FC",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            63,
+            19,
+            18
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            55,
+            24,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "UNVERIFIED",
+      "home": "Mallorca",
+      "away": "Córdoba",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            59,
+            20,
+            21
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            55,
+            24,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "UNVERIFIED",
+      "home": "Real Oviedo",
+      "away": "Girona",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            38,
+            31,
+            31
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            39,
+            29,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "UNVERIFIED",
+      "home": "Tenerife",
+      "away": "Ceuta",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            62,
+            20,
+            18
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            50,
+            27,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "SP2",
+      "home": "Granada",
+      "away": "Las Palmas",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            53,
+            24,
+            23
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            55,
+            25,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "SP2",
+      "home": "Eibar",
+      "away": "Cádiz",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            60,
+            21,
+            19
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            57,
+            24,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "PRIMERA_RFEF",
+      "home": "Eldense",
+      "away": "Sabadell",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            39,
+            33,
+            28
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            39,
+            29,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "INTERNACIONAL",
+      "home": "Bélgica",
+      "away": "Italia",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            43,
+            28,
+            29
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            54,
+            26,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "LIGA_F",
+      "home": "Alavés",
+      "away": "Eibar",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            35,
+            30,
+            35
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            41,
+            29,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "LIGA_F",
+      "home": "Real Sociedad",
+      "away": "Athletic Club",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            38,
+            32,
+            30
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            42,
+            28,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "LIGA_F",
+      "home": "Sevilla",
+      "away": "Atlético de Madrid",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            27,
+            24,
+            49
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            22,
+            25,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "LIGA_F",
+      "home": "Valencia",
+      "away": "Granada",
+      "popularity": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T07:24:00+01:00",
+          "kind": "LAE",
+          "percentages": [
+            39,
+            29,
+            32
+          ]
+        }
+      ],
+      "market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities": [
+            22,
+            25,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "competition": "INTERNACIONAL",
+      "home": "España",
+      "away": "Inglaterra",
+      "goal_market": [
+        {
+          "source": "https://www.eduardolosilla.es/ayudas/porcentajes",
+          "captured_at": "2026-11-09T19:57:00+01:00",
+          "probabilities_012M": [
+            [
+              15,
+              28,
+              27,
+              30
+            ],
+            [
+              39,
+              37,
+              17,
+              7
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
