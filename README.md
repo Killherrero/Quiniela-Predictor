@@ -15,6 +15,8 @@ Añade `--csv archivo.csv` al importador para leer el CSV original sin acceso de
 
 ## Datos
 
+El archivo `data/fixtures_2026-27.csv` transcribe las jornadas 1–19 de las capturas de «Histórico Quinielas» de Eduardo Losilla aportadas por el usuario. Contiene el identificador de jornada, la posición en el boleto y los dos equipos. La posición 15 corresponde al Pleno. Conserva las abreviaturas de la fuente y el sufijo femenino. Sirve como índice para emparejar con los escrutinios oficiales y las capturas de mercado fechadas. Aún no contiene fechas de cierre, competiciones verificadas, cuotas, signos oficiales ni premios. Los colores de las capturas se han omitido.
+
 - Cada jornada JSON tiene `id`, `closes_at` y 15 `matches` en el orden del boleto. Cada partido lleva `competition`, `home`, `away` y opcionalmente `date`, `kickoff_at`, `market` y `popularity`. Usa ISO 8601 con desplazamiento horario para instantes.
 - Cada elemento de `market` lleva `source`, `captured_at` y `odds` decimales o `probabilities` en orden 1/X/2. La hora debe ser la de una captura documentada o una publicación fechada de los valores exactos. Las cuotas se convierten a inversos normalizados. Los porcentajes LAE y de usuarios se guardan por separado en `popularity` con `kind`, `percentages`, `source` y `captured_at`.
 - El Pleno puede llevar `goal_market` con dos marginales `probabilities_012M` en orden local y visitante, más fuente y hora. Se elige la moda de cada marginal. También se acepta `pleno_pick` con `score` de dos caracteres (por ejemplo `1M`), fuente y hora. Sin estas entradas se intenta usar Poisson. Los pronósticos manuales deben haber quedado registrados antes del cierre.
